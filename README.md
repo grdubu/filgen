@@ -1,4 +1,4 @@
-# filgen-m-code
+# filgen
 Analog Filter Design
 
 The name "filgen" is from "filter generation." 
