@@ -1,0 +1,85 @@
+B. J. Minnis, Designing Microwave Circuits by Exact Synthesis. Norwood, MA: Artech House, 1996.
+
+This is an excellent book written by Brian Minnis.  
+
+Print version of my book:
+10 9 8 7 6 5 4 3 2 1
+
+Page  Comment
+ 25   In Fig. 2.5, the plot for |K(S)|^2 has the horizontal line 1.0 
+      at the wrong level. Vertical breaks such as on the left axis 
+      should be on all lines at the same level.
+ 
+ 34   The plot for |L(S)|^2 - 1 in Fig 2.8 has the same problem as 
+      that of p.25 (Fig. 2.5).
+      
+ 39   In Fig. 2.10, all the sub-figures are numeric. They should be 
+      alphabetic [(a) thru (f)].
+      
+ 86   The values in the Fig. 2.34 circuit are incorrect. 
+          
+            ┌──┐    ┌──┐    ┌──┐    ┌──┐    
+        ─┤├─┤UE├─┤├─┤UE├─┤├─┤UE├─┤├─┤UE├─┤├─
+            └──┘    └──┘    └──┘    └──┘    
+         1   2   3   4   5   6   7   8   9
+           
+            C1    0.947 F   (1.037 Ω)
+            UE2   1.298 Ω   
+            C3    .4823 F   (2.073 Ω)
+            UE4   1.443 Ω   
+            C5    .4823 F   (2.073 Ω)
+            UE6   1.443 Ω   
+            C7    .4823 F   (2.073 Ω)
+            UE8   1.298 Ω   
+            C9    0.947 F   (1.037 Ω)
+            
+            Note the physical symmetry.
+    
+ 88   The two inner UE values given in the Fig. 2.35 circuit are off 
+      by an order of magnitude. Rather than 1.324 Ω, they should be 
+      13.24 Ω. The cap value is 9.750043e-3 F (102.6 Ω).
+      
+      It could be this one error was carried into the p.86 values and 
+      that is why everything in Fig. 2.34 is well-off.
+      
+160   All values in Fig. 3.5 circuits are a bit off.
+
+     2.43896       157.721       23562.5     All UE in Ω.
+       ┌──┐   ┌──┐   ┌──┐   ┌──┐   ┌──┐     
+       ┤UE├───┤UE├───┤UE├───┤UE├───┤UE├───┤├─
+       └──┘   └──┘   └──┘   └──┘   └──┘  3.60845e-6 F       
+            15.4216        1879.41       277127 Ω
+     (a)
+
+            ┌──┐    ┌──┐    ┌──┐    ┌──┐     ┌──┐    
+        ─┤├─┤UE├─┤├─┤UE├─┤├─┤UE├─┤├─┤UE├─┤├──┤UE├─┤├─
+            └──┘    └──┘    └──┘    └──┘     └──┘    
+         1   2   3   4   5   6   7   8   9    10  11
+         
+           C1    0.868116 F   (1.15192 Ω)
+           UE2   1.28704 Ω
+           UE4   1.38270 Ω
+           UE6   1.31181 Ω
+           UE8   1.26591 Ω
+           UE10  1.24718 Ω
+           
+           All inner caps (C3, C5, C7, C9, C11) are 0.434058 F 
+           (2.30384 Ω).  
+     (b)
+     
+         57.5960 Ω ├──inner stubs 115.192 Ω ────┤
+
+            ││     ││     ││     ││     ││     ││
+            ││     ││     ││     ││     ││     ││
+        ────┘└─────┘└─────┘└─────┘└─────┘└─────┘└---
+        
+        ─────────────────────────────────────────---
+        50 Ω       69.1350 Ω     63.2953 Ω        
+            64.3518 Ω     65.5904 Ω     62.3591 Ω 
+     (c)
+            
+181   The last use of "passband" in §3.2 should be replaced with 
+      "stopband."  "... and a stopband extending to beyond 20 GHz."
+    
+    
+    
