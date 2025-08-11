@@ -1,0 +1,73 @@
+R. Daniels, Approximation Methods for Electronic Filter Design. New York, NY: McGraw-Hill, 1974.
+Richard Daniels
+
+Amazing book.
+
+Print version of my book:
+1 2 3 4 5 6 7 8 9 0 KPKP 7 9 8 7 6 5 4
+
+Page  Comment
+ 53   Def. 5.1 part 5: |x| < X_L should be |x| > X_L.
+ 
+ 80   Fig. 5.13  Third "DO PART 6" has 15.662 in two places;
+      Should be 15.622.
+ 
+ 81   1st paragraph of §5.14. Second sentence ends with:
+        ... tr = ωB/ωA.   Should be ... tr = ωB/ωH.
+      
+109   In the paragraph following (7.3), the last clause  of "for bandpass filters, 
+      simply let ωA = 0" should read "for /lowpass/ filters, simply let ωA = 0".  
+      [Emphasis added]
+
+120   In the hint for Prb. 7.3, Z should be capitalized. Q(Z=0), not Q(z=0).
+
+121   Prb. 7.4(d), Z should be capitalized. Z²-1, not z²-1.
+      
+127   In the far bottom right corner, the expression f2 = 1/0.7 is missing the 
+      dividing line.
+
+136   The absolute value signs are missing in (8.11). 
+      See Problem 8.1 on p154 to get the correct form.
+    
+155   Zi of dA/dZi in (3) of Problem 8.2 is missing the i subscript. 
+      See (8.19) on p.141.
+    
+161   (ωB/ωA)^2 ratio in Q(Z)^2 of (9.24) is missing the dividing (fraction) line.
+
+163   The "f(s)=" equation above (9.29) has Cf·ω. It should be Cf·s. 
+      See f(s)=... at the bottom of p.114.
+
+166   The factor "ϵ²/4" in the equation of #5 is missing a fraction line.
+    
+171   Problem 9.5 refers to "Example 9.4". It should instead refer to "Problem 9.4".
+
+173   In Thm. 10.1, we skip from (10.3) to (10.5) with no (10.4).
+      The equation E(Z)E*(Z)=F²(Z)+Q²(Z) should be denoted (10.4). <IMO>
+
+177   Example 10.1 refers to "... the problem that was started in Fig. 9.5". 
+      Fig. 9.5 is not "a problem." The problem reference should be "Problem 9.4"
+      on p.170.
+    
+180   Eq. (10.22b) has the Product of Sums symbol upside down.
+    
+185   In the 4th sentence the words "stopband" and "passband" should have their 
+      positions changed. "... equiripple /passband/ but arbitrary /stopband/." 
+      [Emphasis added]
+     
+207   In the first sentence of the third paragraph of §11.8, the word "passband" should instead be "stopband".
+
+228   Prob. 12.1b. Equation missing = sign. Should be L(Z) = ... 
+      See (8.4) on p.125. 
+    
+312   1. The Product of Sums symbol is upside down in (9.24)
+      2. Approximately mid-page, (7.24) is referenced. It should instead reference (7.24b). See p.117.
+
+316   In (7.28) of Prob. 16.7, the factor "[(ai-bi)/2]" is missing the half power. 
+      It should be "[(ai-bi)/2]^½". See p.118.
+
+
+NOT errata (I may have read it wrong)
+318 X Problem 16.14 begins with "Example 16.3 considers..."
+      Replace 16.3 with 16.13.
+
+
