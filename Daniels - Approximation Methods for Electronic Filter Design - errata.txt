@@ -1,7 +1,7 @@
 R. Daniels, Approximation Methods for Electronic Filter Design. New York, NY: McGraw-Hill, 1974.
 Richard Daniels
 
-Amazing book.
+This is my version of an errata for this amazing book.
 
 Print version of my book:
 1 2 3 4 5 6 7 8 9 0 KPKP 7 9 8 7 6 5 4
@@ -69,5 +69,6 @@ Page  Comment
 NOT errata (I may have read it wrong)
 318 X Problem 16.14 begins with "Example 16.3 considers..."
       Replace 16.3 with 16.13.
+
 
 
