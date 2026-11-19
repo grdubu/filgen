@@ -93,8 +93,7 @@ while(k < N)   % quit after N iterations (k goes from 0:N-1 and the loop does no
    a = (a_ + b_)/2; % arithmetic mean
    b = sqrt(a_*b_); % geometic mean
    k = k + 1; % Computation done, inc by 1.
-   if abs(1 - a/b) <= d  % This one checks if a and b are about the same. Not sure what happens if a and b are huge.
-                         % The "rosetta code" version I started with uses a different method: it asks if "a" is no longer changing...
+   if abs(1 - a/b) <= d  % This one checks if a and b are about the same. What if a and b are huge?
       break
    end
    a_ = a;
